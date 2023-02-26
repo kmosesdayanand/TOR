@@ -1,3 +1,3 @@
 # Table of contents
 
-* [.Onion Website](README.md)
+* [TOR](README.md)
